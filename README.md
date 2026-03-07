@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hola, soy Marlon
 
-<!--
-**MarlonBarzola/MarlonBarzola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador Full Stack con más de 5 años de experiencia creando aplicaciones web, APIs y sitios e-commerce.
 
-Here are some ideas to get you started:
+## Tecnologías
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Laravel
+- Vue.js
+- WordPress
+- WooCommerce
+- MySQL
+- REST APIs
+- PHP
+- JavaScript
+
+## Actualmente
+
+Estoy construyendo proyectos de portafolio y ofreciendo servicios freelance de desarrollo web.
+
+## Contacto
+
+GitHub: https://github.com/MarlonBarzola
