@@ -1,22 +1,35 @@
 # 👋 Hola, soy Marlon
 
-Desarrollador Full Stack con más de 5 años de experiencia creando aplicaciones web, APIs y sitios e-commerce.
+Desarrollador web Full Stack con más de 5 años de experiencia construyendo aplicaciones enfocadas en resolver necesidades reales de negocio.
 
-## Tecnologías
+He trabajado en el desarrollo de sistemas como:
+- 🎯 Plataformas de promociones con registro de usuarios, validación de códigos y panel administrativo
+- 🛒 Ecommerce funcionales para catálogo y venta de productos
+- 🌐 Sitios web en WordPress para presencia digital
 
-- Laravel
-- Vue.js
-- WordPress
-- WooCommerce
-- MySQL
-- REST APIs
-- PHP
-- JavaScript
+Me enfoco en crear soluciones prácticas, funcionales y fáciles de usar, priorizando la experiencia del usuario y la claridad en los procesos.
 
-## Actualmente
+---
 
-Estoy construyendo proyectos de portafolio y ofreciendo servicios freelance de desarrollo web.
+## 🛠️ Tecnologías
 
-## Contacto
+- **Backend:** PHP, Laravel  
+- **Frontend:** Vue.js, JavaScript  
+- **CMS:** WordPress, WooCommerce  
+- **Base de datos:** MySQL  
+- **Otros:** REST APIs, integración de sistemas  
 
-GitHub: https://github.com/MarlonBarzola
+---
+
+## 🚀 Actualmente
+
+Estoy desarrollando proyectos de portafolio y demos funcionales enfocados en:
+- Sistemas de promociones  
+- Ecommerce  
+- Herramientas administrativas  
+
+---
+
+## 📫 Contacto
+
+- GitHub: https://github.com/MarlonBarzola
