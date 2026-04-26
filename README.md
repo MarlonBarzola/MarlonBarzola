@@ -33,3 +33,4 @@ Estoy desarrollando proyectos de portafolio y demos funcionales enfocados en:
 ## 📫 Contacto
 
 - GitHub: https://github.com/MarlonBarzola
+- LinkedIn: www.linkedin.com/in/marlon-barzola-756a8b154
